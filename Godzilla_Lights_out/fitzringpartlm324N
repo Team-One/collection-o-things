@@ -1,0 +1,74 @@
+{
+  "type": "QUAD OP-AMP", 
+  "title": "LM324A Series High Gain Low Power Quad Operational Amplifier - DIP-14", 
+  "label": "LM324N", 
+  "description": "These devices consist of four independent high-gain frequency-compensated operational amplifiers that are designed specifically to operate from a single supply over a wide range of voltages.\n\nDatasheet:http://datasheet.octopart.com/LM324N-Texas-Instruments-datasheet-148749.pdf", 
+  "tags": [
+    "LM324N", 
+    "Texas Instruments", 
+    "Quad OP-AMP"
+  ], 
+  "icon": {
+    "label1": "MCP2", 
+    "label2": "3008"
+  }, 
+  "pins": 12, 
+  "connectors": {
+    "1": {
+      "label": "1OUT", 
+      "description": ""
+    }, 
+    "2": {
+      "label": "1IN-", 
+      "description": ""
+    }, 
+    "3": {
+      "label": "1IN+", 
+      "description": ""
+    }, 
+    "4": {
+      "label": "VCC", 
+      "description": ""
+    }, 
+    "5": {
+      "label": "2IN+", 
+      "description": ""
+    }, 
+    "6": {
+      "label": "2IN-", 
+      "description": ""
+    }, 
+    "7": {
+      "label": "2OUT", 
+      "description": ""
+    }, 
+    "8": {
+      "label": "4OUT", 
+      "description": ""
+    }, 
+    "9": {
+      "label": "4IN-", 
+      "description": "."
+    }, 
+    "10": {
+      "label": "4IN+", 
+      "description": ""
+    }, 
+    "11": {
+      "label": "GND", 
+      "description": "Ground"
+    }, 
+    "12": {
+      "label": "3IN+", 
+      "description": ""
+    }, 
+    "13": {
+      "label": "3IN-", 
+      "description": ""
+    }, 
+    "14": {
+      "label": "3OUT", 
+      "description": ""
+    }
+  }
+}
